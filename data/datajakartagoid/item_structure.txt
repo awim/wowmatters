@@ -1,0 +1,27 @@
+title:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.row > div > h2 > strong
+
+
+description:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.row > div > div.deskripsi-dataset > p
+
+category:
+body > div.container.mt-5 > div.mt-5.card > div > div.col-md-3.col-sm-4.col-xs-12 > div > h4
+
+
+metadata:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.row > div > div.row > div.col-md-8.col-sm-8.col-xs-12 > ul
+
+
+datasource list:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.col-md-12.col-sm-12.col-xs-12 > div > div
+
+
+datasource public link:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.col-md-12.col-sm-12.col-xs-12 > div > div > div > div.isi.col-md-11.col-sm-11.col-xs-12.text-justify > a
+
+
+datasource csv link:
+body > div.container.mt-5 > div.mt-5.card > div > div.mt-3.col-md-9.col-sm-12.col-xs-12 > div > div.col-md-12.col-sm-12.col-xs-12 > div.col-md-12.col-sm-12.col-xs-12 > div > div > div > div.isi.col-md-11.col-sm-11.col-xs-12.text-justify > div > div > a.btn.btn-success.resource-url-analytics
+
+

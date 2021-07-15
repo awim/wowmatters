@@ -1,0 +1,2 @@
+https://ojk-invest-api.vercel.app/api/products
+https://ojk-invest-api.vercel.app/api/apps
